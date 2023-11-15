@@ -45,8 +45,11 @@ Note: source of the PiOS license is also available here [https://github.com/pi-a
 
 #### Disclaimer
 This is just a suggested license to limit use of your Software to Pi Network applications.  Pi Network does not take any responsibility for the use of this license by you or others.  All developers should consult their own counsel to ensure the license meets their needs and are solely liable for all consequences arising from the use of the license. To be included in the PiOS app list you are required to use this license without alterations, aside from the copyright notice. If you make alterations or use a different license, you may still be eligible to be included in other lists that may be established at some later time by Pi Network. 
+
 Beautiful Goddess
 Her temperament is as beautiful as orchid,and her talent is as rich as fairy
+
+- Hi, I’m @17385819581
 - I’m a student
 - I’m a pioneer in the Chinese region
 - The Pi@17385819581 of China
